@@ -1,4 +1,4 @@
 From Left to Right: 
 ====
 
-Yangxuezhe Sun, William Wu, Jiarei Hu
+Yangxuezhe Sun, William Wu, Jiarui Hu
