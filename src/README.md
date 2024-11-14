@@ -6,7 +6,7 @@ The core programming language driving the control software, Python offers unpara
 **TensorFlow**
 An advanced, open-source machine learning framework utilized to design and train sophisticated AI models. TensorFlow empowers the AI RC Car with neural networks capable of object recognition, decision-making, and autonomous navigation, ensuring adaptability in dynamic environments.
 
-**PuTTY**
+**PuTTY**   CHANGE TO FILEZILLA
 A robust terminal emulator enabling seamless remote access to the Raspberry Pi via SSH. PuTTY facilitates streamlined configuration, debugging, and software deployment without the need for a physical connection, offering flexibility and efficiency in development.
 
 **Pi Camera**
