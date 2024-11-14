@@ -9,6 +9,9 @@ An advanced, open-source machine learning framework utilized to design and train
 **PuTTY**   CHANGE TO FILEZILLA
 A robust terminal emulator enabling seamless remote access to the Raspberry Pi via SSH. PuTTY facilitates streamlined configuration, debugging, and software deployment without the need for a physical connection, offering flexibility and efficiency in development.
 
+**FileZilla**
+A terminal emulator enabling seamless wireless connection to the Raspberry Pi via connecting to an online server. FileZilla facilitates file transferring from one device to another and remote access, offering flexibility and efficiency in development. 
+
 **Pi Camera**
 The integral vision module of the AI RC Car, the Pi Camera captures high-definition real-time images and video. This data powers TensorFlow-based models, supporting object detection, environmental awareness, and precision in autonomous operations.
 
