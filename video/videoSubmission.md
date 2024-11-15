@@ -2,9 +2,9 @@ Video-fixed
 ====
 
 Obstacle Run:
-https://youtu.be/77nxFDLuQlI
+https://youtu.be/SdxTvGql_v4
 
 
 Free Run:
-https://youtu.be/5SfbgqO7EiY
+https://youtu.be/80of-n9PaRE
 
