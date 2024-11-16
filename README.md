@@ -41,12 +41,13 @@ By integrating these carefully selected hardware components into a cohesive desi
 ## Software and Functionality of Codes
 
 The software portion consists of code located on the raspberry pi in a SD card. Here is a breakdown for the different code files:
-* [manage.py]() is the main code that allows for data training
-* Config.py sets the the default PWM values which controls the car
-* Calibrate.py allows for the synchronized processing of the AI model
-* Airc_drive10.py is a testing software for the AI model
-* Main_freerun.py is the final AI model program for our freerun part of the competition. The program drives the car 3 times around the track and stops based off gyro readings
-* Main_obstacle.py is the final AI model program for our obstacle run part of the competition. The program drives the car 2 times around the track while dodging obstacels according the rules, completes another lap cw or ccw based off the rules, and compeltes a final lap that parks the car into the parking slot.
+* [manage.py](src/codes/Manage.py) is the main code that allows for data training
+* [config.py](src/codes/config.py) sets the the default PWM values which controls the car
+* [calibrate.py](src/codes/Calibrate.py) allows for the synchronized processing of the AI model
+* [airc_drive10.py](src/codes/airc_drive10.py) is a testing software for the AI model
+* [myconfig.py](src/codes/myconfig.py) is the base code we built off of from the donkey car forums
+* [main_freerun.py](src/codes/main_freerun.py) is the final AI model program for our freerun part of the competition. The program drives the car 3 times around the track and stops based off gyro readings
+* [main_obstacle.py](src/codes/main_obstacle.py) is the final AI model program for our obstacle run part of the competition. The program drives the car 2 times around the track while dodging obstacels according the rules, completes another lap cw or ccw based off the rules, and compeltes a final lap that parks the car into the parking slot.
 
 Overall the codes intertwine with the electromechanical designs to ensure a smooth functioning training process and model integration. 
 
