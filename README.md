@@ -24,6 +24,8 @@ Our vehicle’s design combined mechanical engineering, AI development, and cont
 
 The **Raspberry Pi** served as the central processing unit, integrating data from the camera and gyroscope in real time. This allowed the AI system to make decisions dynamically. **Pulse Width Modulation (PWM)** was employed for precise motor control, ensuring smooth navigation and optimized power consumption.
 
+## Software and Functionality of Codes
+
 ## AI Training Process
 
 The AI model was trained using real-world data captured during manual driving sessions on a custom-built track. Using Google TensorFlow, we developed a Convolutional Neural Network (CNN) to interpret visual inputs from the camera and associate them with appropriate throttle and steering commands. After iterative testing and fine-tuning, the AI system became adept at navigating complex track conditions autonomously.
