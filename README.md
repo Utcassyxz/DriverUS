@@ -38,6 +38,20 @@ To improve performance, the stock RC car tires were replaced with high-traction,
 
 By integrating these carefully selected hardware components into a cohesive design, our vehicle was able to handle the rigorous challenges of the WRO competition, demonstrating exceptional adaptability and performance in real-world scenarios.
 
+## Software and Functionality of Codes
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 _____________________________________________________________________________________________________________________________________
 
@@ -49,11 +63,9 @@ ________________________________________________________________________________
 
 
 
-Our vehicle’s design combined mechanical engineering, AI development, and control system integration. Starting with an RC car platform, we replaced stock tires with robust ones to enhance stability and maneuverability on challenging tracks. We added a modular LEGO structure atop the RC car to house key components such as the Raspberry Pi, camera, and gyroscope.
 
-The **Raspberry Pi** served as the central processing unit, integrating data from the camera and gyroscope in real time. This allowed the AI system to make decisions dynamically. **Pulse Width Modulation (PWM)** was employed for precise motor control, ensuring smooth navigation and optimized power consumption.
 
-## Software and Functionality of Codes
+
 
 ## AI Training Process
 
