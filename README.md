@@ -2,18 +2,18 @@
 
 ## WRO Season 2024 Future Engineers - Self-Driving Cars
 
-Our team, **Driver US**, composed of passionate high school students from Rancho Cucamonga, California, undertook the challenge of developing an innovative autonomous vehicle solution for the 2024 World Robot Olympiad (WRO) Future Engineers competition. This prestigious global competition tasked participants with designing, building, and programming a fully autonomous vehicle capable of navigating various obstacles, completing precision parking tasks, and dynamically adjusting to complex and ever-changing environments—all without any human intervention.
+Our team, **Driver US**, composed of passionate high school students from California, undertook the challenge of developing an innovative autonomous vehicle solution for the 2024 World Robot Olympiad (WRO) Future Engineers competition. This prestigious global competition tasked participants with designing, building, and programming a fully autonomous vehicle capable of navigating various obstacles, completing precision parking tasks, and dynamically adjusting to complex and ever-changing environments—all without any human intervention.
 
 ## Team Members and Roles
 
-### Yangxuezhe Sun
-An 11th-grade student passionate about coding, Yangxuezhe oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. By applying complex AI models, Yangxuezhe played a crucial role in uniting the team and ensuring cohesive and efficient work throughout the project.
-
-### Jiarui Hu
-A 12th-grade student with extensive knowledge of artificial intelligence and 3D modeling, Jiarui was responsible for optimizing the AI system for real-time decision-making processes. He also used 3D modeling software to simulate the vehicle’s behavior before real-world implementation, allowing the team to visualize interactions between AI and mechanical systems.
-
 ### William Wu
-A 10th-grade student with experience in programming and structural design, William assembled the physical vehicle and coded the algorithms enabling autonomous operation. His work focused on precise implementation of Pulse Width Modulation (PWM) for motor control, ensuring fine adjustments to the vehicle’s steering and speed.
+A 10th-grade student passionate about coding from Rancho Cucamonga High School, William oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. By applying complex AI models, William played a crucial role in uniting the team and ensuring cohesive and efficient work throughout the project.
+
+### Yangxuezhe (Harry) Sun
+A 11th-grade student with experience in programming and structural design from Rancho Cucamonga High School, Yangxuezhe assembled the physical vehicle and coded the algorithms enabling autonomous operation. His work focused on precise implementation of Pulse Width Modulation (PWM) for motor control, ensuring fine adjustments to the vehicle’s steering and speed. His work on the hardware part of the solution greatly helped put the project in motion and marked the start of the development of AI models.
+
+### Jiarui (Jerry) Hu
+A 12th-grade student from West Christian High School with extensive knowledge of artificial intelligence and 3D modeling, Jiarui was responsible for optimizing the AI system for real-time decision-making processes and editing videos for the team. He also helped organize the GitHub while maintaining a crucial role in supporting the team and making sure everythign was functioning. 
 
 ### Coach Fei Guo
 As a seasoned mentor with a background in autonomous systems, Coach Fei Guo provided invaluable guidance. He helped refine AI models and hardware integration while fostering critical and creative problem-solving skills within the team.
