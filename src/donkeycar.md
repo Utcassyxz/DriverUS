@@ -14,3 +14,7 @@ Here’s how we specifically integrated the forum’s base code into our project
 
 By using DonkeyCar’s open-source resources, we were able to streamline our development process, saving time and effort while also benefiting from the knowledge and improvements shared by the DonkeyCar community. This allowed us to focus on specific customizations like model training and real-world testing, ensuring our project could successfully navigate complex environments autonomously.
 
+
+![image](https://github.com/user-attachments/assets/96f63438-6769-4c45-bef4-c86fea2d9401)
+
+
