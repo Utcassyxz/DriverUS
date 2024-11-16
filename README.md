@@ -41,7 +41,7 @@ By integrating these carefully selected hardware components into a cohesive desi
 ## Software and Functionality of Codes
 
 The software portion consists of code located on the raspberry pi in a SD card. Here is a breakdown for the different code files:
-* Manage.py is the main code that allows for data training
+* [manage.py]() is the main code that allows for data training
 * Config.py sets the the default PWM values which controls the car
 * Calibrate.py allows for the synchronized processing of the AI model
 * Airc_drive10.py is a testing software for the AI model
