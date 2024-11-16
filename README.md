@@ -1,4 +1,4 @@
-Report on a True Autonomous Vehicle Solution:
+Report on a Truely Autonomous Vehicle Solution:
 
 WRO Season 2024 Future Engineers - Self-Driving Cars
 
