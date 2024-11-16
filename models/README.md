@@ -1,7 +1,7 @@
 Models
 ====
 
-##**3D Modeling and Building Instructions**
+## **3D Modeling and Building Instructions**
 
 The 3D_Models folder on GitHub contains a detailed 3D model of the LEGO car component and comprehensive building instructions for the structure. To access and view these resources, follow the steps below:
 
