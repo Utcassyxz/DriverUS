@@ -84,6 +84,9 @@ car_status_predict = int(0)
 
 while True:
 
+    '''
+    The car will run indefinitely. The pwm takes inputs from the AI model and controls the car accordingly.
+    '''
     frame = PiCamera.run(cam)
     frame = cv2.cvtColor(frame,cv2.COLOR_RGB2BGR)
     outputs = KerasLinear.run(kl,img_arr = frame)
@@ -126,5 +129,6 @@ while True:
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
+#After the loop is broken the camera shuts down and everything ends
 PiCamera.shutdown(cam)
 cv2.destroyAllWindows()
