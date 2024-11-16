@@ -7,7 +7,7 @@ Our team, **Driver US**, composed of passionate high school students from Califo
 ## Team Members and Roles
 
 #### William Wu
-A 10th-grade student passionate about coding from Rancho Cucamonga High School, [William](william1324230@gmail.com) oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. By applying complex AI models, William played a crucial role in uniting the team and ensuring cohesive and efficient work throughout the project.
+A 10th-grade student passionate about coding from Rancho Cucamonga High School, [William](mailto:william1324230@gmail.com) oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. By applying complex AI models, William played a crucial role in uniting the team and ensuring cohesive and efficient work throughout the project.
 
 #### Yangxuezhe (Harry) Sun
 A 11th-grade student with experience in programming and structural design from Rancho Cucamonga High School, Yangxuezhe assembled the physical vehicle and coded the algorithms enabling autonomous operation. His work focused on precise implementation of Pulse Width Modulation (PWM) for motor control, ensuring fine adjustments to the vehicle’s steering and speed. His work on the hardware part of the solution greatly helped put the project in motion and marked the start of the development of AI models.
