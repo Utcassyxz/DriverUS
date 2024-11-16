@@ -13,7 +13,7 @@ A 10th-grade student passionate about coding from Rancho Cucamonga High School, 
 A 11th-grade student with experience in programming and structural design from Rancho Cucamonga High School, [Yangxuezhe](mailto:sunyangxuezhe@gmail.com) assembled the physical vehicle and coded the algorithms enabling autonomous operation. His work focused on precise implementation of Pulse Width Modulation (PWM) for motor control, ensuring fine adjustments to the vehicle’s steering and speed. His work on the hardware part of the solution greatly helped put the project in motion and marked the start of the development of AI models.
 
 #### Jiarui (Jerry) Hu
-A 12th-grade student from West Christian High School with extensive knowledge of artificial intelligence and 3D modeling, [Jiarui](mailto:epicericclass@gmail.com) was responsible for optimizing the AI system for real-time decision-making processes and editing videos for the team. He also helped organize the GitHub while maintaining a crucial role in supporting the team and making sure everythign was functioning. 
+A 12th-grade student from Western Christian High School with extensive knowledge of artificial intelligence and 3D modeling, [Jiarui](mailto:epicericclass@gmail.com) was responsible for optimizing the AI system for real-time decision-making processes and editing videos for the team. He also helped organize the GitHub while maintaining a crucial role in supporting the team and making sure everythign was functioning. 
 
 #### Coach Fei Guo
 As a seasoned mentor with a background in autonomous systems, Coach Fei Guo provided invaluable guidance. He helped refine AI models and hardware integration while fostering critical and creative problem-solving skills within the team.
