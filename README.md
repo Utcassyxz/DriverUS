@@ -66,31 +66,25 @@ The training process was iterative, involving extensive testing and fine-tuning 
 Effective power management was essential to ensure reliable performance throughout the competition. To achieve this, Pulse Width Modulation (PWM) was employed to optimize the vehicle's power consumption, allowing us to extend battery life while maintaining consistent operation and precision control.
 
 Our vehicle was powered by two sources:
-* Li-Polymer Model 603048 (7.4V, 850mAh): This battery powered the RC car's motors, ensuring sufficient energy for movement and steering.
-* HYD001 Portable Charger: This device powered the Raspberry Pi, which in turn supplied energy to the gyroscope and camera.
+* [Li-Polymer Model 603048 (7.4V, 850mAh)](https://usa.banggood.com/ZOP-Power-7_4V-850mAh-100C-2S-LiPo-Battery-XT30-Plug-for-RC-Drone-p-1978448.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=US&utm_content=minha&utm_campaign=aceng-pmax-usg-pc&currency=USD&cur_warehouse=CN&createTmp=1): This battery powered the RC car's motors, ensuring sufficient energy for movement and steering.
+* [HYD001 Portable Charger](https://manuals.plus/miady/miady-hyd001-power-bank-user-manual): This device powered the Raspberry Pi, which in turn supplied energy to the gyroscope and camera.
 
 This power setup was carefully designed to ensure stability and reliability during operation. The modular structure allowed for efficient energy distribution across all components, providing sufficient power for extended competition runs and maintaining the system’s overall functionality.
-____________________________________________________________________________________________________________________________________
 
 
+## Model Management
 
 
+Once the AI model has been trained, it is uploaded back to the Raspberry Pi using FileZilla and stored in a designated folder named airc_drive. This streamlined process ensures that the model is readily accessible for deployment.
 
+The trained model can be executed using [airc_drive10.py](src/codes/airc_drive10.py), serving as the foundation for both the [main_freerun.py](src/codes/main_freerun.py) and [main_obstacle.py](src/codes/main_obstacle.py). These scripts allow the model to autonomously control the vehicle, performing tasks such as navigating the freerun course or completing obstacle avoidance and parking challenges.
 
-
-
-
-
-
-
-
-
-
-
-## Obstacle and Parking Management
-
-The AI system was trained to recognize obstacles using visual data and to perform precise parking maneuvers. By analyzing the course layout and using control logic, the vehicle could navigate obstacles and park accurately within designated zones.
+This robust model management system guarantees smooth integration, ensuring the AI functions reliably and enables the successful completion of all project objectives.
 
 ## Conclusion
 
-Through this project, we developed a fully adaptive autonomous vehicle that meets the demands of the 2024 WRO Future Engineers competition. By integrating AI, machine learning, and engineering, we demonstrated the potential of autonomous systems in real-world applications. This experience has deepened our understanding of autonomous vehicle development and inspired us to further explore innovations in robotics and AI-driven technologies.
+Our project represents the culmination of months of dedication, innovation, and teamwork in designing and developing a truly autonomous vehicle. By combining advanced AI techniques, robust hardware design, and seamless integration of mechanical and electrical components, we created a system capable of navigating complex environments, overcoming challenges, and completing the 2024 WRO Future Engineers competition without human intervention.
+
+Through this journey, we deepened our understanding of critical concepts in machine learning, control systems, and robotics while honing our problem-solving and collaboration skills. From building the physical structure and integrating sensors to training and deploying the AI model, each phase of the project brought unique challenges and opportunities for growth.
+
+This experience not only prepared us for the rigors of the competition but also inspired us to envision the broader applications of autonomous systems in real-world scenarios. We are proud to have contributed to the evolving field of robotics and autonomous vehicles, and we look forward to exploring even more ambitious projects in the future. We welcome everyone to use the models and projects in the GitHub to expand on the growing progress in the AI vehicle industry and succeed in their own competition!
