@@ -16,7 +16,16 @@ The 3D_Models folder on GitHub contains a detailed 3D model of the LEGO car comp
 3. Download the "Building instructions [future engineers].html" file.
 4. Open the HTML file (located in your Downloads folder) in your browser. This will generate an interactive website with the building instructions.
 
+The website provides an intuitive experience with:
+* **Step-by-step guidance**: Each step includes the required LEGO pieces and a clear assembly process.
+* **Interactive features**: Navigate smoothly between steps and access additional information.
+* **Printing option**: Print the instructions if needed.
+* **Piece inventory**: A complete list of required LEGO pieces is included at the end of the instructions.
 
+**Example of the Building Instructions**
+Below is a preview of what the building instructions look like:
+
+![image](https://github.com/user-attachments/assets/1e95580e-09df-48d0-af11-3490c31e4ff2)
 
 
 
@@ -26,4 +35,4 @@ To view the building instructions you must first download the folder "Building I
 
 The lego building instructions is coded so that each step will have the required pieces and a option to print the instructions. The very back of the model includes a list of the required pieces and the building instructions is clear-cut and well defined for navigation and precision. A example image of the building instructions is located below:
 
-![image](https://github.com/user-attachments/assets/1e95580e-09df-48d0-af11-3490c31e4ff2)
+
