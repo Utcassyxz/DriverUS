@@ -61,10 +61,19 @@ To process this data, we used [FileZilla](https://filezilla-project.org) to tran
 The training process was iterative, involving extensive testing and fine-tuning to optimize the model's accuracy and performance. After each iteration, we evaluated the AI's ability to handle various track scenarios, including straight paths, sharp turns, and obstacle navigation. With each improvement, the AI system became increasingly adept at interpreting visual inputs, making real-time decisions, and autonomously navigating the complex track conditions with precision.
 
 
+## Power and Sense Management
+
+Effective power management was essential to ensure reliable performance throughout the competition. To achieve this, Pulse Width Modulation (PWM) was employed to optimize the vehicle's power consumption, allowing us to extend battery life while maintaining consistent operation and precision control.
+
+Our vehicle was powered by two sources:
+* Li-Polymer Model 603048 (7.4V, 850mAh): This battery powered the RC car's motors, ensuring sufficient energy for movement and steering.
+* HYD001 Portable Charger: This device powered the Raspberry Pi, which in turn supplied energy to the gyroscope and camera.
+
+This power setup was carefully designed to ensure stability and reliability during operation. The modular structure allowed for efficient energy distribution across all components, providing sufficient power for extended competition runs and maintaining the system’s overall functionality.
+____________________________________________________________________________________________________________________________________
 
 
 
-_____________________________________________________________________________________________________________________________________
 
 
 
@@ -77,18 +86,6 @@ ________________________________________________________________________________
 
 
 
-
-## AI Training Process
-
-The AI model was trained using real-world data captured during manual driving sessions on a custom-built track. Using Google TensorFlow, we developed a Convolutional Neural Network (CNN) to interpret visual inputs from the camera and associate them with appropriate throttle and steering commands. After iterative testing and fine-tuning, the AI system became adept at navigating complex track conditions autonomously.
-
-## Real-Time Decision Making
-
-The AI system processed data from the camera and gyroscope in real time, enabling the vehicle to adjust its throttle, steering, and speed dynamically. This adaptability ensured smooth navigation of obstacles, sharp turns, and varying track conditions without human intervention.
-
-## Power and Sensor Management
-
-Effective power management was crucial for reliable performance. PWM was utilized to optimize power usage, extending battery life while maintaining consistent performance. The gyroscope and camera worked in tandem to provide real-time data for balance, orientation, and environmental awareness.
 
 ## Obstacle and Parking Management
 
