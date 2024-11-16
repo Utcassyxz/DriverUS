@@ -54,7 +54,11 @@ cam = PiCamera(image_w=IMAGE_W, image_h=IMAGE_H, image_d=IMAGE_DEPTH,
 # """
 # init tf and models
 # """
-model_path= current_path +"/model_frcw1/mypilot.h5"
+
+'''
+model_path takes the input for the model we are using (folder name) and runs the model accordingly
+'''
+model_path= current_path +"/MODEL_USED/mypilot.h5"
 input_shape = (120, 160, 3)
 model_type = 'linear'
 interpreter = KerasInterpreter()
