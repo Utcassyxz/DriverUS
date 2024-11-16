@@ -40,17 +40,16 @@ By integrating these carefully selected hardware components into a cohesive desi
 
 ## Software and Functionality of Codes
 
-The software portion consists of code located on the raspberry pi in a SD card. Here is a breakdown for the different code files:
-* [manage.py](src/codes/Manage.py) is the main code that allows for data training
-* [config.py](src/codes/config.py) sets the the default PWM values which controls the car
-* [calibrate.py](src/codes/Calibrate.py) allows for the synchronized processing of the AI model
-* [airc_drive10.py](src/codes/airc_drive10.py) is a testing software for the AI model
-* [myconfig.py](src/codes/myconfig.py) is the base code we built off of from the donkey car forums
-* [main_freerun.py](src/codes/main_freerun.py) is the final AI model program for our freerun part of the competition. The program drives the car 3 times around the track and stops based off gyro readings
-* [main_obstacle.py](src/codes/main_obstacle.py) is the final AI model program for our obstacle run part of the competition. The program drives the car 2 times around the track while dodging obstacels according the rules, completes another lap cw or ccw based off the rules, and compeltes a final lap that parks the car into the parking slot.
+The software system for our autonomous vehicle is stored on an SD card within the Raspberry Pi. It consists of multiple Python scripts, each designed to handle specific tasks in the development, testing, and execution of the AI models. Below is a detailed breakdown of these code files:
+* [manage.py](src/codes/Manage.py) is the main code that collects training data for the AI model
+* [config.py](src/codes/config.py) defines the default Pulse Width Modulation (PWM) values, which are critical for controlling the vehicle's motors and steering. These parameters ensure consistent and precise vehicle movement.
+* [calibrate.py](src/codes/Calibrate.py) is used to synchronize the AI model with the vehicle’s hardware, this script ensures that sensor data and system responses are accurately aligned during operation.
+* [airc_drive10.py](src/codes/airc_drive10.py) serves as a testing tool for the AI model. It allows us to evaluate and debug the vehicle's performance in a controlled environment before deploying it in competition.
+* [myconfig.py](src/codes/myconfig.py) provides the foundational framework upon which we built our customized AI solutions which is imported form the donkey car forums.
+* [main_freerun.py](src/codes/main_freerun.py) is the final AI program for the freerun segment of the competition. This script enables the vehicle to autonomously complete three laps around the track and stop precisely based on gyroscope readings.
+* [main_obstacle.py](src/codes/main_obstacle.py) is the final AI program for the obstacle run segment of the competition. It drives the car through two laps while dynamically avoiding obstacles according to the competition rules. The program then performs an additional lap (clockwise or counterclockwise as specified by the rules) and concludes with a final lap, parking the vehicle accurately in the designated slot.
 
-Overall the codes intertwine with the electromechanical designs to ensure a smooth functioning training process and model integration. 
-
+These scripts seamlessly integrate with the electromechanical systems, including the Raspberry Pi, gyroscope, camera, and motors. Together, the software and hardware ensure a smooth and efficient training process, real-time decision-making, and flawless execution during competition. This harmonious interaction between software and hardware underscores the sophistication of our autonomous vehicle’s design.
 
 
 
