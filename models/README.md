@@ -5,6 +5,11 @@ Models
 
 The 3D_Models folder on GitHub contains a detailed 3D model of the LEGO car component and comprehensive building instructions for the structure. To access and view these resources, follow the steps below:
 
+**Viewing the 3D Lego Model**
+1. Download the future engineers.lxf file from the 3D_Models folder.
+2. Install [LEGO Digital Designer](https://lego-digital-designer.en.softonic.com) to open the .lxf file.
+
+
 
 Located in the 3D_Models folder, the model section for the Github includes both a 3D model for the lego component of the car and building instructions for the structure. To download and view the 3D lego model (future engineers.lxf), you must download lego digital designer using this link: https://lego-digital-designer.en.softonic.com. 
 
