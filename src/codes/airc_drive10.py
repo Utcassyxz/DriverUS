@@ -1,5 +1,6 @@
 '''
-This is a very basic program that uses donkeycar camera images to feed a keras model to make predictions.
+This is a very basic program that uses donkeycar camera images to feed a keras model to make predictions. The objective of this
+program is to provide a testing model that we can use before we put it in the main model.
 '''
 
 import os
