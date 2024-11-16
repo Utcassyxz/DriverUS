@@ -26,7 +26,7 @@ Our vehicle’s design represents a careful combination of mechanical engineerin
 
 We designed a modular [LEGO](https://simple.wikipedia.org/wiki/Lego#:~:text=LEGO%20bricks%20are%20colorful%20plastic,building%20toy%20in%20the%20world.) structure mounted atop the RC car to securely house the essential hardware components. The LEGO construction was chosen for its adaptability and standardization of parts, allowing us to make iterative adjustments during testing phases. This modularity proved critical when fine-tuning the positioning of the camera, gyroscope, and Raspberry Pi, ensuring optimal performance across varied track conditions and lighting environments.
 
-At the heart of the vehicle lies the [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/), which served as the central processing unit (CPU). It processes data from the camera and gyroscope in real time, running AI models to make instantaneous decisions. The Raspberry Pi was selected for its computational power, compact size, and support for advanced machine learning frameworks such as TensorFlow.
+At the heart of the vehicle lies the [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/), which served as the central processing unit (CPU). It processes data from the camera and gyroscope in real time, running AI models to make instantaneous decisions. The Raspberry Pi was selected for its computational power, compact size, and support for advanced machine learning frameworks such as TensorFlow. Most of the code is located on the raspberry pi inside a hard drive (SD card) and will be able to
 
 The vehicle is equipped with a [Raspberry Pi Camera Module v2](https://www.raspberrypi.com/documentation/accessories/camera.html), which provides a live video feed of the track. This feed is critical for the AI system to recognize track boundaries, detect obstacles, and make informed navigational decisions. The camera was mounted on an adjustable LEGO arm, enabling precise positioning.
 
@@ -52,10 +52,13 @@ The software system for our autonomous vehicle is stored on an SD card within th
 These scripts seamlessly integrate with the electromechanical systems, including the Raspberry Pi, gyroscope, camera, and motors. Together, the software and hardware ensure a smooth and efficient training process, real-time decision-making, and flawless execution during competition. This harmonious interaction between software and hardware underscores the sophistication of our autonomous vehicle’s design.
 
 
+## AI Training Process
 
+The AI model for our autonomous vehicle was developed using real-world data collected during manual driving sessions on the competition track, facilitated by the script [manage.py](src/codes/Manage.py). These sessions enabled us to capture critical data, including camera images and vehicle control inputs, which served as the foundation for training the model.
 
+To process this data, we used [FileZilla](https://filezilla-project.org) to transfer the training datasets from the Raspberry Pi to our development computers. Once the data was prepared, we leveraged [TensorFlow](https://www.tensorflow.org) within a [Miniconda3](https://docs.anaconda.com/miniconda/) command prompt environment to build and train a Convolutional Neural Network (CNN). The CNN was specifically designed to analyze visual inputs from the vehicle’s camera and map them to precise throttle and steering commands, enabling the AI to learn how to navigate the track effectively.
 
-
+The training process was iterative, involving extensive testing and fine-tuning to optimize the model's accuracy and performance. After each iteration, we evaluated the AI's ability to handle various track scenarios, including straight paths, sharp turns, and obstacle navigation. With each improvement, the AI system became increasingly adept at interpreting visual inputs, making real-time decisions, and autonomously navigating the complex track conditions with precision.
 
 
 
