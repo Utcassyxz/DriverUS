@@ -2,7 +2,7 @@
 
 ## WRO Season 2024 Future Engineers - Self-Driving Cars
 
-Our team, **Driver US**, composed of passionate high school students from California, undertook the challenge of developing an innovative autonomous vehicle solution for the 2024 World Robot Olympiad (WRO) Future Engineers competition. This prestigious global competition tasked participants with designing, building, and programming a fully autonomous vehicle capable of navigating various obstacles, completing precision parking tasks, and dynamically adjusting to complex and ever-changing environments—all without any human intervention.
+Our team, **Driver US**, composed of passionate high school students from California, undertook the challenge of developing and creating an unique, innovative autonomous vehicle solution for the 2024 World Robot Olympiad (WRO) Future Engineers competition. This prestigious global competition tasked participants with designing, building, and programming a fully autonomous vehicle capable of navigating various obstacles, completing precision parking tasks, and dynamically adjusting to complex and ever-changing environments—all without any human intervention.
 
 ## Team Members and Roles
 
@@ -19,6 +19,24 @@ A 12th-grade student from West Christian High School with extensive knowledge of
 As a seasoned mentor with a background in autonomous systems, Coach Fei Guo provided invaluable guidance. He helped refine AI models and hardware integration while fostering critical and creative problem-solving skills within the team.
 
 ## Technical Solution Design
+
+Our vehicle’s design represents a careful combination of mechanical engineering, AI development, and control system integration, with a strong emphasis on robust, modular, and _Self-Designed_ hardware. The platform for the vehicle is an RC car ([Bezgar Remote Control Car](https://bezgar.com/products/hp161s-brushless-rc-monster-truck?srsltid=AfmBOooFGoxjODbHSdft2b3kG1eCqt0nHd6ybDr41GkETmGHhnId5QGx8ZQ)), chosen for its durability, speed, and reliability in high-performance environments. This base provided a sturdy foundation for handling the demanding tasks of the WRO competition.
+
+We designed a modular LEGO structure mounted atop the RC car to securely house the essential hardware components. The LEGO construction was chosen for its adaptability and standardization of parts, allowing us to make iterative adjustments during testing phases. This modularity proved critical when fine-tuning the positioning of the camera, gyroscope, and Raspberry Pi, ensuring optimal performance across varied track conditions and lighting environments.
+
+At the heart of the vehicle lies the Raspberry Pi 4 Model B, which served as the central processing unit (CPU). It processed data from the camera and gyroscope in real time, running AI models to make instantaneous decisions. The Raspberry Pi was selected for its computational power, compact size, and support for advanced machine learning frameworks such as TensorFlow.
+
+
+
+_____________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
 
 Our vehicle’s design combined mechanical engineering, AI development, and control system integration. Starting with an RC car platform, we replaced stock tires with robust ones to enhance stability and maneuverability on challenging tracks. We added a modular LEGO structure atop the RC car to house key components such as the Raspberry Pi, camera, and gyroscope.
 
