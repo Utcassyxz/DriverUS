@@ -30,3 +30,22 @@ Below is a preview of what the building instructions look like:
 ![image](https://github.com/user-attachments/assets/1e95580e-09df-48d0-af11-3490c31e4ff2)
 ![image](https://github.com/user-attachments/assets/ad7da521-c056-4c35-b275-1ee08d056579)
 
+
+
+
+## **AI_Models**
+
+The AI_Models folder on Github contains some of the trained AI models that our group has trained and used to run the vehicle. To access and run these resources, follow the steps below: 
+
+**Downloading and Running the Models**
+1. Download the model as is onto your computer
+2. Transport the model using FileZilla or a equivalent software onto the raspberry pi
+3. Write a program using python or a equalivalent software on the raspberry pi that can run a keras interpreter
+4. Call the transported AI model in the program and run it
+5. Fine tune your throttle and steering values until the AI model matches up with your own vehicle
+6. Make sure the camera is set to a position such that the model is effective
+7. Remember the models we uploaded were trained using data from our own car it might not respond well with your own vehicles
+
+It is important to point out that the models we uploaded aren't the final models we use for the competition and may be imcomplete or inaccurate. The point of the models are purely for demonstration purposes and the below are the final statistics for our models. 
+
+**Final Model Counts**
