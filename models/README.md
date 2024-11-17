@@ -10,11 +10,14 @@ The 3D_Models folder on GitHub contains a detailed 3D model of the LEGO car comp
 2. Install [LEGO Digital Designer](https://lego-digital-designer.en.softonic.com) to open the .lxf file.
 3. Once installed, use LEGO Digital Designer to explore the 3D model in detail.
 
+[Building Instructions (future engineers) - images](models/3D_Models/Building Instructions (future engineers)-images)
+
 **Viewing the Building Instructions**
-1. Download the "[Building Instructions (future engineers) - images](models/3D_Models/Building Instructions (future engineers)-images)" folder from GitHub. This folder contains all the images necessary for the instructions.
-2. Unzip the folder and place it in your computer's Downloads directory.
-3. Download the "Building instructions [future engineers].html" file.
-4. Open the HTML file (located in your Downloads folder) in your browser. This will generate an interactive website with the building instructions.
+1. Download the "[Building Instructions (future engineers) - images](models/3D_Models/Building Instructions (future engineers)-images)"
+folder from GitHub. This folder contains all the images necessary for the instructions.
+3. Unzip the folder and place it in your computer's Downloads directory.
+4. Download the "Building instructions [future engineers].html" file.
+5. Open the HTML file (located in your Downloads folder) in your browser. This will generate an interactive website with the building instructions.
 
 The website provides an intuitive experience with:
 * **Step-by-step guidance**: Each step includes the required LEGO pieces and a clear assembly process.
