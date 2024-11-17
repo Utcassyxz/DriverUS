@@ -11,3 +11,4 @@ Located in this folder is images/videos and descriptions of our team recording d
 
 **Design Process/Prototypes**
 
+**Design Timeline**
