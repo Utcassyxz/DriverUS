@@ -11,9 +11,8 @@ An advanced, open-source machine learning framework utilized to design and train
 ### **FileZilla**
 A terminal emulator enabling seamless wireless connection to the Raspberry Pi via an online server. FileZilla facilitates file transferring from one device to another and remote access, offering flexibility and efficiency in development.
 
-### **Pi Camera**
-The integral vision module of the AI RC Car, the Pi Camera captures high-definition real-time images and video. This data powers TensorFlow-based models, supporting object detection, environmental awareness, and precision in autonomous operations.
-
+### **realVNC**
+realVNC is a integral connection system that provided substantial progress for us by allowing us to connect wirelessly to the raspberry pi and control it on our computer. It offers much adpatability and leverage for our vehicle. 
 ---
 
 ## Key Components
@@ -54,4 +53,7 @@ The `Manage` module seamlessly integrates the AI models, sensors, and motors, co
 
 ---
 
-This streamlined and powerful system ensures that the AI RC Car achieves peak performance, embodying innovation and precision in the WRO Future Engineers competition.
+This streamlined and powerful system ensures that the AI RC Car achieves peak performance, embodying innovation and precision in the WRO Future Engineers competition. Our part sourcing is also listed below:
+
+**Parts**
+
