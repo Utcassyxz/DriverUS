@@ -39,7 +39,7 @@ The AI_Models folder on Github contains some of the trained AI models that our g
 
 **Downloading and Running the Models**
 1. Download the model as is onto your computer
-2. Transport the model using FileZilla or a equivalent software onto the raspberry pi
+2. Transport the model using [FileZilla]([url](https://filezilla-project.org)) or a equivalent software onto the raspberry pi
 3. Write a program using python or a equalivalent software on the raspberry pi that can run a keras interpreter
 4. Call the transported AI model in the program and run it
 5. Fine tune your throttle and steering values until the AI model matches up with your own vehicle
