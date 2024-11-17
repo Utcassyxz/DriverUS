@@ -22,7 +22,7 @@ The website provides an intuitive experience with:
 * **Interactive features**: Navigate smoothly between steps and access additional information.
 * **Printing option**: Print the instructions if needed.
 * **Piece inventory**: A complete list of required LEGO pieces is included at the end of the instructions.
-* **[PDF](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS/blob/f4dfa86de47632240327ea810c4cfb7c27fb92d5/models/3D_Models/future%20engineers.lxf)**: A pdf of the building instructions is attached in the 3D_Models folder but it is best to view them on our coded website for a better experience
+* **[PDF](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS/blob/1332f71c22e0ab700d1a64ad2a66b8dad052e8a7/models/3D_Models/Lego%20Building%20Instructions.pdf)**: A pdf of the building instructions is attached in the 3D_Models folder but it is best to view them on our coded website for a better experience
 
 **Example of the Building Instructions**
 Below is a preview of what the building instructions look like:
