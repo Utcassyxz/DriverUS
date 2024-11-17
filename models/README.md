@@ -49,3 +49,10 @@ The AI_Models folder on Github contains some of the trained AI models that our g
 It is important to point out that the models we uploaded aren't the final models we use for the competition and may be imcomplete or inaccurate. The point of the models are purely for demonstration purposes and the below are the final statistics for our models. 
 
 **Final Model Counts**
+
+* Freerun CW - | Estimated training time - 
+* Freerun CCW - | Estimated training time - 
+* Obstacle Run CW - | Estimated training time - 
+* Obstacle Run CCW - | Estimated training time - 
+* Parking CW - | Estimated training time -
+* Parking CCW - | Estimated training time - 
