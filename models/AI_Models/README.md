@@ -14,4 +14,12 @@ This folder contains examples of our trained AI models specifically designed for
 
 ---
 
+The final amount of models we trained for each category is listed below:
+* Freerun CW - | Estimated training time - 
+* Freerun CCW - | Estimated training time - 
+* Obstacle Run CW - | Estimated training time - 
+* Obstacle Run CCW - | Estimated training time - 
+* Parking CW - | Estimated training time -
+* Parking CCW - | Estimated training time - 
+
 These models have been fine-tuned through extensive training to ensure high reliability and performance in real-world scenarios.
