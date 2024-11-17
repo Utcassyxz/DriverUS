@@ -57,3 +57,17 @@ This streamlined and powerful system ensures that the AI RC Car achieves peak pe
 
 **Parts**
 
+* [Bezgar Remote Control Car](https://bezgar.com/products/hp161s-brushless-rc-monster-truck?srsltid=AfmBOooFGoxjODbHSdft2b3kG1eCqt0nHd6ybDr41GkETmGHhnId5QGx8ZQ) - RC car model 🚗
+* [LEGO](https://simple.wikipedia.org/wiki/Lego#:~:text=LEGO%20bricks%20are%20colorful%20plastic,building%20toy%20in%20the%20world.) - Container for other parts on top of RC car 📦
+* [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/) - Brain of the vehicle 🧠
+* [Raspberry Pi Camera Module v2](https://www.raspberrypi.com/documentation/accessories/camera.html) - Eyes of the vehicle 👀
+* [WT901 gyroscope](https://witmotion-sensor.com/products/9-axis-accelerometer-tilt-sensor-wt901-high-accuracy-acceleration-gyroscope-angle-magnetometer-with-kalman-filtering-triaxial-mpu9250-ahrs-imu-iic-ttl-200hz-for-pc-android-arduino?srsltid=AfmBOoqfCXdqwgJ5OLrF-OszHW7Pc291yX24ZmS6GENK0HButTmnNTTE) - Sense of direction for the vehicle 🧭
+* [PWM with ic2 interface](https://www.adafruit.com/product/815) - Mechanical controller 🤖
+* [Li-Polymer Model 603048 (7.4V, 850mAh)](https://usa.banggood.com/ZOP-Power-7_4V-850mAh-100C-2S-LiPo-Battery-XT30-Plug-for-RC-Drone-p-1978448.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=US&utm_content=minha&utm_campaign=aceng-pmax-usg-pc&currency=USD&cur_warehouse=CN&createTmp=1) - Powers the RC car 🔋
+* [HYD001 Portable Charger](https://manuals.plus/miady/miady-hyd001-power-bank-user-manual) - Powers the raspberry pi and rest of the sensors 🪫
+
+
+
+
+
+
