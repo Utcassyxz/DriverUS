@@ -1,5 +1,6 @@
 Control software
 ====
+
 **Python**
 The core programming language driving the control software, Python offers unparalleled simplicity and versatility. Its rich ecosystem of libraries is leveraged for hardware interfacing, real-time data processing, and the implementation of cutting-edge machine learning algorithms.
 
