@@ -2,7 +2,7 @@
 
 ## **Electromechanical Diagrams**
 
-Electromechanical diagrams for an AI RC Car incorporating a Raspberry Pi, PWM signals, and TensorFlow are essential tools for illustrating the connections and interactions between electrical and mechanical components. These diagrams aid in designing, building, troubleshooting, and maintaining the car. 
+In this section there include electromechanical diagrams for an AI RC Car which incorporate a Raspberry Pi, PWM signals, and TensorFlow and are essential tools for illustrating the connections and interactions between electrical and mechanical components. These diagrams aid in designing, building, troubleshooting, and maintaining the car. Below is a brief description of the electromechanical designs and how they connect to each other. 
 
 ### **Types of Diagrams**
 
