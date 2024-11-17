@@ -14,7 +14,7 @@ The 3D_Models folder on GitHub contains a detailed 3D model of the LEGO car comp
 1. Download the "[Building Instructions (future engineers) - images](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS/tree/9608d30e230236a254943df41e74102f1177d6cf/models/3D_Models/Building%20Instructions%20%5Bfuture%20engineers%5D-images)"
 folder from GitHub. This folder contains all the images necessary for the instructions.
 3. Unzip the folder and place it in your computer's Downloads directory.
-4. Download the "[Building instructions (future engineers).html]([url](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS/blob/03f3972be36e6e3378cd324e298ca619069e46aa/models/3D_Models/Building%20Instructions%20%5Bfuture%20engineers%5D.html))" file.
+4. Download the "[Building instructions (future engineers).html](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS/blob/03f3972be36e6e3378cd324e298ca619069e46aa/models/3D_Models/Building%20Instructions%20%5Bfuture%20engineers%5D.html)" file.
 5. Open the HTML file (located in your Downloads folder) in your browser. This will generate an interactive website with the building instructions.
 
 The website provides an intuitive experience with:
