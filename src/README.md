@@ -62,9 +62,12 @@ This streamlined and powerful system ensures that the AI RC Car achieves peak pe
 * [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/) - Brain of the vehicle 🧠
 * [Raspberry Pi Camera Module v2](https://www.raspberrypi.com/documentation/accessories/camera.html) - Eyes of the vehicle 👀
 * [WT901 gyroscope](https://witmotion-sensor.com/products/9-axis-accelerometer-tilt-sensor-wt901-high-accuracy-acceleration-gyroscope-angle-magnetometer-with-kalman-filtering-triaxial-mpu9250-ahrs-imu-iic-ttl-200hz-for-pc-android-arduino?srsltid=AfmBOoqfCXdqwgJ5OLrF-OszHW7Pc291yX24ZmS6GENK0HButTmnNTTE) - Sense of direction for the vehicle 🧭
-* [PWM with ic2 interface](https://www.adafruit.com/product/815) - Mechanical controller 🤖
+* [16 channel 12-bit PWM Servo Driver I2C](https://www.adafruit.com/product/815) - Mechanical controller 🤖
 * [Li-Polymer Model 603048 (7.4V, 850mAh)](https://usa.banggood.com/ZOP-Power-7_4V-850mAh-100C-2S-LiPo-Battery-XT30-Plug-for-RC-Drone-p-1978448.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=US&utm_content=minha&utm_campaign=aceng-pmax-usg-pc&currency=USD&cur_warehouse=CN&createTmp=1) - Powers the RC car 🔋
 * [HYD001 Portable Charger](https://manuals.plus/miady/miady-hyd001-power-bank-user-manual) - Powers the raspberry pi and rest of the sensors 🪫
+* [Kcd1-11 Switch](https://www.finglai.com/products/switches/rocker-switches/KCD1-KCD5-13.5x9/KCD1-11-2P-UB.html) - On/off switch for the robot 😴
+* [GPIO Wires](https://forums.raspberrypi.com/viewtopic.php?t=216304) - Connects PWM to RC car and and raspberry pi and the raspberry pi to the gyro 🔗
+* [GPIO cables](https://www.raspberrypi.com/products/camera-cable/) - Connects the raspberry pi camera to the raspberry pi 🖇️
 
 
 
