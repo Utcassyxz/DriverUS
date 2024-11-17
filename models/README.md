@@ -56,3 +56,5 @@ It is important to point out that the models we uploaded aren't the final models
 * Obstacle Run CCW - | Estimated training time - 
 * Parking CW - | Estimated training time -
 * Parking CCW - | Estimated training time - 
+
+Estimated training time is taken into account the amount of time to record the data, transfer it to the computer, and train an AI model. We use the estimation of 15 minutes for one set of data not including the setup and charging times. 
