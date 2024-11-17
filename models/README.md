@@ -11,7 +11,7 @@ The 3D_Models folder on GitHub contains a detailed 3D model of the LEGO car comp
 3. Once installed, use LEGO Digital Designer to explore the 3D model in detail.
 
 **Viewing the Building Instructions**
-1. Download the "[Building Instructions (future engineers) - images](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS/tree/6705479aac21a45352c4c9ca180b98edff35af7b/models/3D_Models)"
+1. Download the "[Building Instructions (future engineers) - images]([https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS/tree/6705479aac21a45352c4c9ca180b98edff35af7b/models/3D_Models](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS/tree/6705479aac21a45352c4c9ca180b98edff35af7b/models/3D_Models/Building%20Instructions%20%5Bfuture%20engineers%5D-images))"
 folder from GitHub. This folder contains all the images necessary for the instructions.
 3. Unzip the folder and place it in your computer's Downloads directory.
 4. Download the "[Building instructions future engineers.html](url)" file.
