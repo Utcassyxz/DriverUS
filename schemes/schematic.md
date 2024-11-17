@@ -17,4 +17,5 @@ flowchart TD
     MC --> M2["🛞 Motor 2"]
 
     %% Additional Connections
-    CB --> MC %% Direct connection from car battery to motor control
+    CB --> MC
+    %% Direct connection from car battery to motor control
