@@ -21,8 +21,11 @@ The website provides an intuitive experience with:
 * **Interactive features**: Navigate smoothly between steps and access additional information.
 * **Printing option**: Print the instructions if needed.
 * **Piece inventory**: A complete list of required LEGO pieces is included at the end of the instructions.
+* **PDF**: A pdf of the building instructions is attached in the 3D_Models folder but it is best to view them on our coded website for a better experience
 
 **Example of the Building Instructions**
 Below is a preview of what the building instructions look like:
 
 ![image](https://github.com/user-attachments/assets/1e95580e-09df-48d0-af11-3490c31e4ff2)
+![image](https://github.com/user-attachments/assets/ad7da521-c056-4c35-b275-1ee08d056579)
+
