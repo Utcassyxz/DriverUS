@@ -1,6 +1,4 @@
 # Flowchart for Obstacle Avoidance and Parking Logic
-([🐢 Slow Down and Align to Park])
-([🛑 Stop When Parked])
 
 ```mermaid
 flowchart TB
