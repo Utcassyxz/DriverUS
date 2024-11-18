@@ -14,8 +14,6 @@ flowchart LR
     A([📷 Initialize Pi Camera]) --> B([🧠 Load Trained TensorFlow Model])
     B --> C([🎥 Start Capturing Frames Continuously])
     C --> D([📸 Capture Frame from Camera])
-
-flowchart TB
     D --> E([⚙️ Process Frame using TensorFlow Model])
     E --> K([🚙 Adjust Throttle and Steering of the Vehicle Accordingly])
     K --> F{🏁 Has Gyroscope Detected 3 Laps?}
