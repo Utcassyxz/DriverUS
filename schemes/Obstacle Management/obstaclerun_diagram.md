@@ -46,9 +46,9 @@ flowchart TB
     R -- No and model is forward --> P
     R -- Yes --> S([Initialize parking model])
 
-    %% Parking Branch
-    
-
-
-
+    %% Parking Detection Branch
+    S --> T{🅿️ Parking Zone Detected?}
+    T -- Yes --> U([🐢 Slow Down and Align to Park])
+    U--> V([🛑 Stop When Parked])
+    T -- No --> T
 
