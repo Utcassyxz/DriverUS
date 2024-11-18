@@ -39,7 +39,7 @@ flowchart TB
     N -- Green 🟢 --> P([Continue moving forward and set model as `foward`])
     O --> Q([Continue driving the card in the designated direction while dodging obstacles])
     P --> Q
-    Q --> R([🧭 Gyro detects another lap?)
+    Q --> R([🧭 Gyro detects another lap?])
     R -- No and model is `opposite` --> O
     R -- No and model is `forward` --> P
     R -- Yes --> S([Initialize parking model])
