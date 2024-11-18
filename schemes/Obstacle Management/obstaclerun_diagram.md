@@ -40,8 +40,8 @@ flowchart TB
     O --> Q([Continue driving the card in the designated direction while dodging obstacles])
     P --> Q
     Q --> R([🧭 Gyro detects another lap?)
-    R -- No, model: `opposite` --> O
-    R -- No, model: `forward` --> P
+    R -- No model: `opposite` --> O
+    R -- No model: `forward` --> P
     R -- Yes --> S([Initialize parking model])
 
 
