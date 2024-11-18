@@ -6,6 +6,7 @@ flowchart TD
     B --> C([🎥 Start Capturing Frames Continuously])
     C --> D([📸 Capture Frame from Camera])
     D --> E([⚙️ Process Frame using TensorFlow Model])
-    E --> F{🏁 Has Gyroscope Detected 3 Laps?}
+    E --> K([🚙 Adjust Throttle and Steering of the vehicle accordingly])
+    K --> F{🏁 Has Gyroscope Detected 3 Laps?}
     F -- Yes --> G([🛑 Stop the Code])
     F -- No --> D
