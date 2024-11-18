@@ -1,7 +1,7 @@
 # Flowchart for Obstacle Avoidance and Parking Logic
 
 ```mermaid
-flowchart LR
+flowchart TB
     %% Define styles for better visualization
     style A fill:#1ABC9C,stroke:#148F77,stroke-width:2,color:#FFFFFF
     style B fill:#3498DB,stroke:#2E86C1,stroke-width:2,color:#FFFFFF
