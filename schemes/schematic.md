@@ -1,4 +1,4 @@
-# AI RC Car Schematic Diagram
+# Power Management Schematic Diagram
 
 ```mermaid
 flowchart TD
