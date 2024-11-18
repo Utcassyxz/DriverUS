@@ -13,7 +13,7 @@ A terminal emulator enabling seamless wireless connection to the Raspberry Pi vi
 
 ### **realVNC**
 realVNC is a integral connection system that provided substantial progress for us by allowing us to connect wirelessly to the raspberry pi and control it on our computer. It offers much adpatability and leverage for our vehicle. 
----
+
 
 ## Key Components
 
