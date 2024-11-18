@@ -47,8 +47,9 @@ flowchart TB
     R -- Yes --> S([Initialize parking model])
 
     %% Parking Detection Branch
-    S --> T{🅿️ Parking Zone Detected?}
+    S --> Z{Start driving around the track without hitting obstacles}
+    Z --> T{🅿️ Parking Zone Detected?}
     T -- Yes --> U([🐢 Slow Down and Align to Park])
     U--> V([🛑 Stop When Parked])
-    T -- No --> T
+    T -- No --> Z
 
