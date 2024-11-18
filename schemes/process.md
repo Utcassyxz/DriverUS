@@ -5,11 +5,7 @@ flowchart TD
     %% Software Section
     A[Start: RC Car Software] --> B[Load manage.py]
     B --> C[Manual Control & Data Recording]
-    C --> D[Sort & Manage Data]
-    D --> E[Calibrate.py: Input Calibration]
-    E --> F[Adjust PWM Settings with config.py]
-    F --> G[Run AI Models with airc_drive10.py]
-    G --> H[Finalize Software Functionality]
+    C --> H[Sort & Manage Data]
 
     %% Transition to AI Modeling
     H --> I[Start: AI Modeling Process]
