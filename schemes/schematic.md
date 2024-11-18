@@ -7,7 +7,7 @@ flowchart TD
     CB["🔋 Car Battery<br><sub>Power for Motors</sub>"] --> |5 V Power| MC["⚙️ Motor Control<br><sub>Controls Motors</sub>"]
 
     %% Raspberry Pi Connections
-    RPI -->|Data| S1["📡 PiCamera2<br><sub>Obstacle Detection</sub>"]
+    RPI -->|~=5.0 volts| S1["📡 PiCamera2<br><sub>Obstacle Detection</sub>"]
     RPI -->|Data| S2["📡 Gyro Sensor<br><sub>Line Tracking</sub>"]
     RPI -->|PWM Signal| PWM["🎛️ PWM<br><sub>Pulse Width Modulation</sub>"]
 
