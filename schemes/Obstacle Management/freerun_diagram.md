@@ -1,7 +1,7 @@
 # Enhanced Horizontal Flowchart with Improved Contrast
 
 ```mermaid
-flowchart LR
+flowchart TB
     style A fill:#E67E22,stroke:#D35400,stroke-width:2,color:#FFFFFF
     style B fill:#E91E63,stroke:#C2185B,stroke-width:2,color:#FFFFFF
     style C fill:#27AE60,stroke:#1E8449,stroke-width:2,color:#FFFFFF
