@@ -13,5 +13,5 @@ flowchart TD
 
     %% PWM and Motor Connections
     PWM --> MC
-    MC --> M1["🛞 Motor 1"]
-    MC --> M2["🛞 Motor 2"]
+    MC --> M1["🛞 Motor 1 (4200kv brushless motor)"]
+    MC --> M2["🛞 Motor 2 (4200kv brushless motor)"]
