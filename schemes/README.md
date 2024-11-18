@@ -18,7 +18,7 @@ In this section there include electromechanical diagrams for an AI RC Car which 
    - Use images or drawings to show physical appearance and arrangement of components within the RC car.  
    - Include the placement of the Raspberry Pi, sensors, motor drivers, and the power supply.
 
-4. **Block Diagrams**  
+4. **Block Diagrams (Flowcharts)**  
    - Simplify the system into blocks representing functional sections, such as AI processing, sensor array, motor control, and power management.  
    - Provide an overview of system operations without detailing internal wiring.
 
