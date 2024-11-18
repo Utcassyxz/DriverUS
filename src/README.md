@@ -3,34 +3,34 @@
 ## Core Technologies
 
 ### **Python**
-The core programming language driving the control software, Python offers unparalleled simplicity and versatility. Its rich ecosystem of libraries is leveraged for hardware interfacing, real-time data processing, and the implementation of cutting-edge machine learning algorithms.
+Python serves as the backbone of the control software, renowned for its simplicity and versatility. It powers hardware interfacing, real-time data processing, and advanced machine learning integration, enabling a robust and efficient system for the AI RC Car.
 
 ### **TensorFlow**
-An advanced, open-source machine learning framework utilized to design and train sophisticated AI models. TensorFlow empowers the AI RC Car with neural networks capable of object recognition, decision-making, and autonomous navigation, ensuring adaptability in dynamic environments.
+As a cutting-edge open-source machine learning framework, TensorFlow enables the design and training of sophisticated AI models. It equips the AI RC Car with neural networks for object recognition, decision-making, and autonomous navigation, ensuring adaptability in dynamic and challenging environments.
 
 ### **FileZilla**
-A terminal emulator enabling seamless wireless connection to the Raspberry Pi via an online server. FileZilla facilitates file transferring from one device to another and remote access, offering flexibility and efficiency in development.
+A powerful file transfer application that streamlines communication between the Raspberry Pi and other devices. FileZilla ensures secure and efficient file transfer, supporting seamless development and remote management of the RC Car.
 
 ### **realVNC**
-realVNC is a integral connection system that provided substantial progress for us by allowing us to connect wirelessly to the raspberry pi and control it on our computer. It offers much adpatability and leverage for our vehicle. 
+RealVNC provides a wireless interface for accessing and controlling the Raspberry Pi from a computer. This tool enhances flexibility and development efficiency by allowing users to monitor and adjust the car's operations remotely, enabling real-time problem-solving and fine-tuning.
 
 
 ## Key Components
 
 ### **Calibrate**
-A pivotal process for optimizing sensor accuracy and motor precision. Calibration fine-tunes the hardware components to deliver reliable data and precise movements, ensuring seamless and consistent performance in varied conditions.
+The calibration process is crucial for aligning sensors and motors, ensuring accurate data collection and precise movement. This step optimizes the car's performance across various conditions, laying the groundwork for smooth and reliable operation.
 
 ### **Config**
-A centralized configuration system housing critical parameters, including sensor thresholds, motor speed limits, and neural network hyperparameters. This module simplifies system adjustments, enabling rapid optimization for diverse scenarios.
+The central configuration hub contains critical parameters like sensor thresholds, motor speed limits, and AI model hyperparameters. This module enables quick and effective adjustments to tailor the system for specific tasks or environments. Our RC car base model is set able to run at up to 40 mph (according to the supplier) but for the sake of our competition we limited it to a maximum of 3 mph. 
 
 ### **Manage**
-A comprehensive management framework orchestrating the AI RC Car’s operations. It supervises system health, manages inter-component communication, and ensures synchronized functionality for smooth execution of autonomous tasks.
+A robust management framework that oversees the AI RC Car's entire operation. It monitors system health, ensures efficient communication between components, and coordinates all functionalities for seamless autonomous performance. Our Manage.py model was built off of the donkey car base code from the forums and is one of the more simple programs that we have. 
 
 ### **myconfig**
 A customizable configuration file that stores user-defined preferences and specific environment settings. This personalization layer adapts the car’s behavior to unique challenges, enhancing flexibility and performance.
 
 ### **Train**
-A sophisticated training module built on TensorFlow that iteratively refines AI models. It processes vast datasets, optimizes neural network parameters, and continuously evaluates performance, driving the evolution of the car’s autonomy and intelligence.
+This module leverages TensorFlow to iteratively train AI models, optimizing neural networks using extensive datasets. It focuses on refining decision-making algorithms, enhancing the car’s autonomous capabilities through continuous improvement.
 
 ---
 
@@ -40,13 +40,13 @@ A sophisticated training module built on TensorFlow that iteratively refines AI 
 The initial setup leverages the `config` and `myconfig` modules to tailor the car's system parameters and settings to the target environment, ensuring optimal readiness.
 
 ### **2. Calibration**
-Sensors and motors undergo meticulous calibration to achieve maximum accuracy and responsiveness, forming the foundation for reliable and adaptive operation.
+Sensor and motor calibration fine-tunes the hardware for precision and responsiveness. Accurate calibration is critical to achieving dependable performance and adapting to variable conditions.
 
 ### **3. Training**
-The AI models are trained using TensorFlow, iterating through data processing, model refinement, and performance evaluation to enhance decision-making and navigation capabilities.
+Using TensorFlow, the AI models are trained through data-driven optimization. This iterative process refines neural network parameters to improve decision-making, navigation, and obstacle management.
 
 ### **4. Deployment**
-With FileZilla, the refined control software is deployed to the Raspberry Pi, enabling remote updates and real-time software management.
+With the help of FileZilla, the trained AI models and updated software are deployed to the Raspberry Pi. This process allows for real-time software updates and remote management.
 
 ### **5. Operation**
 The `Manage` module seamlessly integrates the AI models, sensors, and motors, coordinating their actions to achieve precision in autonomous navigation and environmental interaction.
