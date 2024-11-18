@@ -14,10 +14,18 @@ While True:
     Else:
         Continue along the default path
 
-    If mask detects red and the gyro 
-
-    If the parking zone is detected:
-        Slow down and align to park
-        Stop when parked
+    If gyro detects 2 laps and camera detects red:
+        Turn around and run another obstacle lap.
+        Initialize parking model:
+            If the parking zone is detected:
+                Slow down and align to park
+                Stop when parked
+    Else if gyro detects 2 laps and camera detects green:
+        Continue to run the obstacle run for one lap
+        Initialize parking model:
+            If the parking zone is detected:
+                Slow down and align to park
+                Stop when parked
+    
 End
 ```
