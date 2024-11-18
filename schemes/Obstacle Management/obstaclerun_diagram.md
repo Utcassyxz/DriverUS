@@ -28,8 +28,8 @@ flowchart TB
     J --> K([⚙️ Adjust Steering and Throttle to Avoid Obstacle])
     H -- No --> L([➡️ Continue Along Default Path])
 
-    %% Parking Detection Branch
-    K --> M{🅿️ Parking Zone Detected?}
+    %% Turning/not turning Branch
+    K --> M{🧭 Gyro detects over 2 laps?}
     L --> M
     M -- Yes --> N([🐢 Slow Down and Align to Park])
     N --> O([🛑 Stop When Parked])
