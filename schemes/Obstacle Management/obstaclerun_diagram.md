@@ -14,6 +14,21 @@ flowchart TB
     style G fill:#2ECC71,stroke:#27AE60,stroke-width:2,color:#FFFFFF
     style H fill:#34495E,stroke:#2C3E50,stroke-width:2,color:#FFFFFF
     style I fill:#7F8C8D,stroke:#5D6D7E,stroke-width:2,color:#FFFFFF
+    style J fill:#1ABC9C,stroke:#148F77,stroke-width:2,color:#FFFFFF
+    style K fill:#3498DB,stroke:#2E86C1,stroke-width:2,color:#FFFFFF
+    style L fill:#E67E22,stroke:#D35400,stroke-width:2,color:#FFFFFF
+    style M fill:#9B59B6,stroke:#76448A,stroke-width:2,color:#FFFFFF
+    style N fill:#F1C40F,stroke:#D4AC0D,stroke-width:2,color:#000000
+    style O fill:#E74C3C,stroke:#CB4335,stroke-width:2,color:#FFFFFF
+    style P fill:#2ECC71,stroke:#27AE60,stroke-width:2,color:#FFFFFF
+    style Q fill:#34495E,stroke:#2C3E50,stroke-width:2,color:#FFFFFF
+    style R fill:#7F8C8D,stroke:#5D6D7E,stroke-width:2,color:#FFFFFF
+    style S fill:#1ABC9C,stroke:#148F77,stroke-width:2,color:#FFFFFF
+    style T fill:#3498DB,stroke:#2E86C1,stroke-width:2,color:#FFFFFF
+    style U fill:#E67E22,stroke:#D35400,stroke-width:2,color:#FFFFFF
+    style V fill:#9B59B6,stroke:#76448A,stroke-width:2,color:#FFFFFF
+    style Z fill:#F1C40F,stroke:#D4AC0D,stroke-width:2,color:#000000
+
 
     %% Nodes
     A([📷 Initialize Pi Camera]) --> B([🧠 Load Trained TensorFlow Model])
