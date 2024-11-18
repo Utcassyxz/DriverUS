@@ -1,15 +1,15 @@
-# Enhanced Horizontal Flowchart with Color
+# Enhanced Horizontal Flowchart with Improved Contrast
 
 ```mermaid
 flowchart LR
-    style A fill:#FFDDC1,stroke:#E67E22,stroke-width:2
-    style B fill:#FFABE1,stroke:#E91E63,stroke-width:2
-    style C fill:#B5EAD7,stroke:#27AE60,stroke-width:2
-    style D fill:#C9CBE9,stroke:#2980B9,stroke-width:2
-    style E fill:#F5F5DC,stroke:#8E44AD,stroke-width:2
-    style K fill:#F8C471,stroke:#D35400,stroke-width:2
-    style F fill:#FFE4E1,stroke:#C0392B,stroke-width:2
-    style G fill:#D5F5E3,stroke:#1ABC9C,stroke-width:2
+    style A fill:#E67E22,stroke:#D35400,stroke-width:2,color:#FFFFFF
+    style B fill:#E91E63,stroke:#C2185B,stroke-width:2,color:#FFFFFF
+    style C fill:#27AE60,stroke:#1E8449,stroke-width:2,color:#FFFFFF
+    style D fill:#2980B9,stroke:#1A5276,stroke-width:2,color:#FFFFFF
+    style E fill:#8E44AD,stroke:#6C3483,stroke-width:2,color:#FFFFFF
+    style K fill:#D35400,stroke:#A04000,stroke-width:2,color:#FFFFFF
+    style F fill:#C0392B,stroke:#922B21,stroke-width:2,color:#FFFFFF
+    style G fill:#1ABC9C,stroke:#148F77,stroke-width:2,color:#FFFFFF
 
     A([📷 Initialize Pi Camera]) --> B([🧠 Load Trained TensorFlow Model])
     B --> C([🎥 Start Capturing Frames Continuously])
