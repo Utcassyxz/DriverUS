@@ -50,19 +50,19 @@ flowchart TB
 
     %% Red/Green Branch
     M -- Yes --> N{❔ Red or Green detected?}
-    N -- Red 🔴 --> O([Turn vehicle around and set model as opposte])
-    N -- Green 🟢 --> P([Continue moving forward and set model as foward])
-    O --> Q([Continue driving the card in the designated direction while dodging obstacles])
+    N -- Red 🔴 --> O([🔁 Turn vehicle around and set model as opposte])
+    N -- Green 🟢 --> P([⏩ Continue moving forward and set model as foward])
+    O --> Q([⬆️ Continue driving the card in the designated direction while dodging obstacles])
     P --> Q
     Q --> R{🧭 Gyro detects another lap?}
     R -- No and model is opposite --> O
     R -- No and model is forward --> P
-    R -- Yes --> S([Initialize parking model])
+    R -- Yes --> S([🫸 Initialize parking model])
 
     %% Parking Detection Branch
     S --> T{🅿️ Parking Zone Detected?}
     T -- Yes --> U([🐢 Slow Down and Align to Park])
     U--> V([🛑 Stop When Parked])
-    T -- No --> Z([Continue driving around the track])
+    T -- No --> Z([🏁 Continue driving around the track])
     Z --> T
 
