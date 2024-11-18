@@ -8,7 +8,7 @@ flowchart TD
 
     %% Raspberry Pi Connections
     RPI -->|~=5.0 volts| S1["📡 PiCamera2<br><sub>Obstacle Detection</sub>"]
-    RPI -->|Data| S2["📡 Gyro Sensor<br><sub>Line Tracking</sub>"]
+    RPI -->|~=3.3-5 volts| S2["📡 Gyro Sensor<br><sub>Line Tracking</sub>"]
     RPI -->|PWM Signal| PWM["🎛️ PWM<br><sub>Pulse Width Modulation</sub>"]
 
     %% PWM and Motor Connections
