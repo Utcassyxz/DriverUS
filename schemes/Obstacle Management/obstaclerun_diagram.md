@@ -34,6 +34,8 @@ flowchart TB
     K --> M{🧭 Gyro detects over 2 laps?}
     L --> M
     M -- No --> D
+
+    %% Red/Green Branch
     M -- Yes --> N([❔ Red or Green detected?])
     N -- Red 🔴 --> O([Turn vehicle around and set model as opposte])
     N -- Green 🟢 --> P([Continue moving forward and set model as foward])
