@@ -31,6 +31,12 @@ flowchart TB
     %% Turning/not turning Branch
     K --> M{🧭 Gyro detects over 2 laps?}
     L --> M
-    M -- Yes --> N([🐢 Slow Down and Align to Park])
-    N --> O([🛑 Stop When Parked])
     M -- No --> D
+    M -- Yes --> N([❔ Red or Green detected?])
+    N -- Red 🔴 --> O([Turn vehicle around])
+    N -- Green 🟢 --> P([Continue moving forward])
+
+
+
+([🐢 Slow Down and Align to Park])
+([🛑 Stop When Parked])
