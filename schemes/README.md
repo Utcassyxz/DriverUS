@@ -1,4 +1,4 @@
-w# **Electromechanical Diagrams and Component Descriptions**
+**Electromechanical Diagrams and Component Descriptions**
 
 ## **Electromechanical Diagrams**
 
