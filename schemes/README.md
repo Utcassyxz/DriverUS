@@ -2,7 +2,7 @@
 
 ## **Electromechanical Diagrams**
 
-In this section there include electromechanical diagrams for an AI RC Car which incorporate a Raspberry Pi, PWM signals, and TensorFlow and are essential tools for illustrating the connections and interactions between electrical and mechanical components. These diagrams aid in designing, building, troubleshooting, and maintaining the car. Below is a brief description of the electromechanical designs and how they connect to each other. 
+This section includes electromechanical diagrams for an AI RC Car that incorporate a Raspberry Pi, PWM signals, and TensorFlow. These diagrams are essential tools for illustrating the connections and interactions between electrical and mechanical components. They aid in designing, building, troubleshooting, and maintaining the car. Below is a brief description of the electromechanical designs and how they connect. 
 
 ### **Types of Diagrams**
 
@@ -15,7 +15,7 @@ In this section there include electromechanical diagrams for an AI RC Car which 
    - Indicate how sensors connect to the Raspberry Pi GPIO pins, motor drivers to motors, and power supply distribution.
 
 3. **Pictorial Diagrams**  
-   - Use images or drawings to show physical appearance and arrangement of components within the RC car.  
+   - Use images or drawings to show the physical appearance and arrangement of components within the RC car.  
    - Include the placement of the Raspberry Pi, sensors, motor drivers, and the power supply.
 
 4. **Block Diagrams (Flowcharts)**  
@@ -39,7 +39,7 @@ In this section there include electromechanical diagrams for an AI RC Car which 
 - **Role**: Regulates motor speed (throttle) and steering angle by adjusting power levels based on AI predictions.
 
 ### **GPIO (General Purpose Input/Output)**
-- **Description**: Programmable pins on the Raspberry Pi for controlling and communicating with other components.  
+- **Description**: Programmable Raspberry Pi pins that are used to control and communicate with other components.  
 - **Role**: Enables control of motors, sensors, and displays by sending and receiving signals.
 
 ### **Gyroscope**
