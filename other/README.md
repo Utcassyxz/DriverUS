@@ -6,7 +6,7 @@ Located in this file is all the miscellaneous componenets of our vehicle creatio
 **Working Progress**
 
 Located in this folder is images/videos and descriptions of our team recording data, training data, debugging, building, designing, and
- programming throughout the course of the project. 
+ programming throughout the course of the project.  
 
 
 **Design Process/Prototypes**
