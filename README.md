@@ -14,8 +14,7 @@ A 10th-grade student passionate about coding from Rancho Cucamonga High School, 
 
 #### Yangxuezhe (Harry) Sun
 Yangxuezhe (Harry) Sun
-Harry [Yangxuezhe](mailto:sunyangxuezhe@gmail.com) is an 11th grade student at Rancho Cucamonga High School. His excellent programming foundation and rich experience allowed him to solve the problem of connecting and adapting algorithms on different platforms. He assembled the physical vehicle, wrote the initial code, and trained the AI ​​model for autonomous operation. He led the team to ensure the correct application of the autonomous driving algorithm decision.
-
+Harry [Yangxuezhe](mailto:sunyangxuezhe@gmail.com) 11th-grade student specializing in AI algorithm integration, ensuring real-time AI performance in complex track conditions.
 #### Jiarui (Jerry) Hu
 A 12th-grade student from Western Christian High School with extensive knowledge of artificial intelligence and 3D modeling, [Jiarui](mailto:epicericclass@gmail.com) was responsible for optimizing the AI system for real-time decision-making processes and editing videos for the team. He also helped organize the GitHub while maintaining a crucial role in supporting the team and making sure everythign was functioning. 
 ____________________________________________________________________________________________________________________________________
