@@ -8,17 +8,15 @@ Our team, **Driver US**, composed of passionate high school students from Califo
 
 #### Coach Fei Guo
 As a seasoned mentor with a background in autonomous systems, Coach Fei Guo provided invaluable guidance. He helped refine AI models and hardware integration while fostering critical and creative problem-solving skills within the team.
-
-#### Jiarui (Jerry) Hu
-A 12th-grade student from Western Christian High School with extensive knowledge of artificial intelligence and 3D modeling, [Jiarui](mailto:epicericclass@gmail.com) was responsible for optimizing the AI system for real-time decision-making processes and editing videos for the team. He also helped organize the GitHub while maintaining a crucial role in supporting the team and making sure everythign was functioning. 
+#### William Wu
+A 10th-grade student passionate about coding from Rancho Cucamonga High School, [William](mailto:william1324230@gmail.com) oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. Throughout the project he was the primary proponent of the GitHub developement and created elaborate diagrams and 3D models for the group. 
 
 #### Yangxuezhe (Harry) Sun
 Yangxuezhe (Harry) Sun
 Harry [Yangxuezhe](mailto:sunyangxuezhe@gmail.com) is an 11th grade student at Rancho Cucamonga High School. His excellent programming foundation and rich experience allowed him to solve the problem of connecting and adapting algorithms on different platforms. He assembled the physical vehicle, wrote the initial code, and trained the AI ​​model for autonomous operation. He led the team to ensure the correct application of the autonomous driving algorithm decision.
 
-#### William Wu
-A 10th-grade student passionate about coding from Rancho Cucamonga High School, [William](mailto:william1324230@gmail.com) oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. Throughout the project he was the primary proponent of the GitHub developement and created elaborate diagrams and 3D models for the group. 
-
+#### Jiarui (Jerry) Hu
+A 12th-grade student from Western Christian High School with extensive knowledge of artificial intelligence and 3D modeling, [Jiarui](mailto:epicericclass@gmail.com) was responsible for optimizing the AI system for real-time decision-making processes and editing videos for the team. He also helped organize the GitHub while maintaining a crucial role in supporting the team and making sure everythign was functioning. 
 ____________________________________________________________________________________________________________________________________
 Together our synergy allowed us to work as a cohesive unit, overcoming obstacles and achieving milestones efficiently. By leveraging our combined expertise and supporting one another, we created a fully autonomous vehicle that not only met the competition’s rigorous requirements but also demonstrated the power of teamwork in advancing technological innovation.
 
