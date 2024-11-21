@@ -1,6 +1,6 @@
 '''
 This code captures and processes live video frames using a Raspberry Pi camera to detect the presence of red or green colors. 
-Implemented in the obstacle run to mask out distractions and only see red/green
+Implemented in the obstacle run to mask out distractions and only see red/green colors
 '''
 
 # Initial imports
