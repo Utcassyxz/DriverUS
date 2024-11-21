@@ -8,8 +8,9 @@ Our team, **Driver US**, composed of passionate high school students from Califo
 
 #### Coach Fei Guo
 As a seasoned mentor with a background in autonomous systems, Coach Fei Guo provided invaluable guidance. He helped refine AI models and hardware integration while fostering critical and creative problem-solving skills within the team.
+
 #### William Wu
-A 10th-grade student passionate about coding from Rancho Cucamonga High School, [William](mailto:william1324230@gmail.com) oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. Throughout the project he was the primary proponent of the GitHub developement and created elaborate diagrams and 3D models for the group. 
+A 10th-grade student passionate about coding from Rancho Cucamonga High School, [William](mailto:william1324230@gmail.com) oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. Throughout the project he was the primary proponent of the GitHub developement and created elaborate diagrams and 3D models for the group. William played a crucial role in uniting the team and ensuring cohesive and efficient work throughout the project.
 
 #### Yangxuezhe (Harry) Sun
 Yangxuezhe (Harry) Sun
