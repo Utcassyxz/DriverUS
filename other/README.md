@@ -16,9 +16,9 @@ Located in this folder is images/videos and descriptions of our team recording d
 ```mermaid
 gantt
     title Project Timeline
-    dateFormat  YYYY-MM
+    dateFormat  MM-YYYY
     section Planning
-    Kick-off Meeting         :a1, 2024-01-01, 10d
+    Initial group meeting and basic brainstorming         :a1, 05-01-2024, 10d
     Initial Documentation    :a2, after a1, 15d
     section Development/Designing
     Software Development     :b1, 2024-02-01, 20d
