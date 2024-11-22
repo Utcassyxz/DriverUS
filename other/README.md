@@ -10,12 +10,12 @@ Located in this folder is images/videos and descriptions of our team recording d
 ## **Design Process/Prototypes**
 picamera, wheels, screen, bumper cut, lego top model three times, battery design, minor lego structure fixes/fixing wires, raspberry pi, camera cable
 
-**Design 1:**
+### **Design 1:**
 
 Our first model consisted of a simple lego structure on top of a drifting RC car (not our final RC car). A picture of the lego portion is attached below:
 ![image](https://github.com/user-attachments/assets/3e4bb468-0319-4018-863d-a683a51c2b06)
 
-**Design 2:**
+### **Design 2:**
 
 Although the drift car was fast a major problem that we encountered with the prototype was that 
 
