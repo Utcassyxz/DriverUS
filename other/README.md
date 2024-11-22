@@ -18,11 +18,11 @@ gantt
     title Project Timeline
     dateFormat  MM-YYYY
     section Planning
-    Initial group meeting and basic brainstorming         :a1, 05-01-2024, 10d
-    Initial Documentation    :a2, after a1, 15d
+    Initial Brainstorming         :a1, 05-01-2024, 14d
+    Initial Consturction of Vehicle    :a2, after a1, 21d
     section Development/Designing
-    Software Development     :b1, 2024-02-01, 20d
-    AI Model Testing         :b2, after b1, 20d
+    Software Development     :b1, 06-01-2024, 35d
+    Debugging/Reserach         :b2, after b1, 21d
     section Training Model/Github
     Internal Review          :c1, 2024-03-01, 15d
     Debugging                :c2, after c1, 20d
