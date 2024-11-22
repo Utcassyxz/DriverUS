@@ -37,9 +37,11 @@ In the end we had lots of loose wires and unfixed structures. We helped to fix t
 
 # Model training efficiency
 A feature that was included when we were training our data using Tensorflow was data loss while training. In the beginning we were using around 8000 pieces of data per model. The training loss graph is displayed below:
+
 ![mypilot (1)](https://github.com/user-attachments/assets/e1064463-4a4f-4767-b06b-b817a59de9d6)
 
 We can see that the training loses around 8.5% of data throughout the training process. We improved this later on by training only around 5000 data pieces per model. The training loss graph is shown below:
+
 ![mypilot](https://github.com/user-attachments/assets/14fde4a8-b973-40da-8f83-1cd77651b252)
 
 Where we can see that on average 5% of data is lost. Thus in the end we decided to use around 5000 pieces of data which maximized the training efficiency of our data. 
