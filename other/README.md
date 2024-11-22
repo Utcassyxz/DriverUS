@@ -24,8 +24,8 @@ gantt
     Software Development     :b1, 06-01-2024, 35d
     Debugging/Reserach         :b2, after b1, 21d
     section Training Model/Github
-    Internal Review          :c1, 2024-09-01, 15d
-    Debugging                :c2, after c1, 20d
+    Started GitHub       :c1, 07-01-2024, 90d
+    Training AI model    :c2, after b2, 100d
     section Finalization
-    Testing and Integration  :d1, 2024-10-01, 20d
-    Final Presentation       :d2, 2024-12-01, 10d
+    Testing and Integration  :d1, 11-01-2024, 21d
+    Prepare for Turkey       :d2, after d1, 2d
