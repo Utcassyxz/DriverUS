@@ -28,8 +28,6 @@ We can see that the training loses around 8.5% of data throughout the training p
 
 Where we can see that on average 5% of data is lost. Thus in the end we decided to use around 5000 pieces of data which maximized the training efficiency of our data. 
 
-**Design Timeline**
-
 # Visual Timeline
 
 ```mermaid
