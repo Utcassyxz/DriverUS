@@ -13,8 +13,8 @@ As a seasoned mentor with a background in autonomous systems, Coach Fei Guo prov
 A 10th-grade student passionate about coding from Rancho Cucamonga High School, [William](mailto:william1324230@gmail.com) oversaw the development and integration of AI algorithms. He ensured the AI system adapted to different track conditions and optimized the vehicle's performance in real time. His expertise in machine learning was instrumental in debugging and troubleshooting technical issues. Throughout the project he was the primary proponent of the GitHub developement and created elaborate diagrams and 3D models for the group. William played a crucial role in uniting the team and ensuring cohesive and efficient work throughout the project.
 
 #### Yangxuezhe (Harry) Sun
-Yangxuezhe (Harry) Sun
-Harry [Yangxuezhe](mailto:sunyangxuezhe@gmail.com) 11th-grade student specializing in AI algorithm integration, ensuring real-time AI performance in complex track conditions.
+Harry ([Yangxuezhe](mailto:sunyangxuezhe@gmail.com)), a 11th-grade student specializing in AI algorithm integration, ensuring real-time AI performance in complex track conditions. His abstract knowledge about AI algorithms and software designing propagated the team to create complex software designs for the group, greatly increasing our abilities. 
+
 #### Jiarui (Jerry) Hu
 A 12th-grade student from Western Christian High School with extensive knowledge of artificial intelligence and 3D modeling, [Jiarui](mailto:epicericclass@gmail.com) was responsible for optimizing the AI system for real-time decision-making processes and editing videos for the team. He also helped organize the GitHub while maintaining a crucial role in supporting the team and making sure everythign was functioning. 
 ____________________________________________________________________________________________________________________________________
