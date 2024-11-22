@@ -50,11 +50,11 @@ It is important to point out that the models we uploaded aren't the final models
 
 **Final Model Counts**
 
-* Freerun CW - | Estimated training time - 
-* Freerun CCW - | Estimated training time - 
-* Obstacle Run CW - | Estimated training time - 
-* Obstacle Run CCW - | Estimated training time - 
-* Parking CW - | Estimated training time -
-* Parking CCW - | Estimated training time - 
+* Freerun CW - 26| Estimated training time - 6.5 hours
+* Freerun CCW - 18| Estimated training time - 4.5 hours
+* Obstacle Run CW - 35| Estimated training time - 8.75 hours
+* Obstacle Run CCW - 42| Estimated training time - 10.5 hours
+* Parking CW - 20| Estimated training time - 5 hours
+* Parking CCW - 22| Estimated training time - 5.5 hours
 
 Estimated training time is taken into account the amount of time to record the data, transfer it to the computer, and train an AI model. We use the estimation of 15 minutes for one set of data not including the setup and charging times. 
