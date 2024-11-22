@@ -20,10 +20,10 @@ gantt
     section Planning
     Kick-off Meeting         :a1, 2024-01-01, 10d
     Initial Documentation    :a2, after a1, 15d
-    section Development
+    section Development/Designing
     Software Development     :b1, 2024-02-01, 20d
     AI Model Testing         :b2, after b1, 20d
-    section Prototyping
+    section Training Model/Github
     Internal Review          :c1, 2024-03-01, 15d
     Debugging                :c2, after c1, 20d
     section Finalization
