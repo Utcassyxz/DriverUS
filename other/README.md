@@ -17,7 +17,23 @@ Our first model consisted of a simple lego structure on top of a drifting RC car
 
 ### **Design 2:**
 
-Although the drift car was fast a major problem that we encountered with the prototype was that 
+Although the drift car was fast a major problem that we encountered with the prototype was that it was drifitng to much. Thus we opted out of the original model and changed our RC car to a more sturdy off-road vehicle. 
+
+### Design 3:
+
+With our new RC car we started to build the lego model on the top. Not satisified with the model we changed it 3 times to finally get something we liked. Along the way we also tried to incorporate a mini touch screen that connected to the raspberry pi but failed and in the end removed it from the project. 
+
+### Design 4:
+
+When we got to running the car noticed that the steering was as steep as we wanted it to be and the traction wasn't great. To fix this we replaced the wheels of the RC car with more tractable tires and cut the bumper off the car to allow a greater steering angle. 
+
+### Design 5: 
+
+While traning data we noticed that our camera wasn't working as well as expected. In the end we switched out a picamera for a picamera2 which was better at managing AI related tasks. Along the way we also accidentally broke the cable connecting the camera to the Raspberry Pi which we replaced with a new one. 
+
+### Design 6: 
+
+In the end we had lots of loose wires and unfixed structures. We helped to fix this by using additional lego parts to fix these parts sturdily on the car to ensure that they wouldn't affect the run. In the end our final car was designed in the pursuit of perfection which we take great pride in. 
 
 # Model training efficiency
 A feature that was included when we were training our data using Tensorflow was data loss while training. In the beginning we were using around 8000 pieces of data per model. The training loss graph is displayed below:
