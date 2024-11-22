@@ -24,8 +24,8 @@ gantt
     Software Development     :b1, 06-01-2024, 35d
     Debugging/Reserach         :b2, after b1, 21d
     section Training Model/Github
-    Internal Review          :c1, 2024-03-01, 15d
+    Internal Review          :c1, 2024-09-01, 15d
     Debugging                :c2, after c1, 20d
     section Finalization
-    Testing and Integration  :d1, 2024-04-01, 20d
-    Final Presentation       :d2, 2024-05-01, 10d
+    Testing and Integration  :d1, 2024-10-01, 20d
+    Final Presentation       :d2, 2024-12-01, 10d
