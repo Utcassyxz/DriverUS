@@ -1,3 +1,8 @@
+'''
+We used a python program called matplolib to create a better wiring diagram. To compile this you can download python on your computer and run it using VSC code. 
+'''
+
+
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyArrow
 
